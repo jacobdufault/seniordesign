@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['changemap',['ChangeMap',['../class_forge_1_1_networking_1_1_lobby_1_1_lobby_host.html#a372eeb7a615ea80d67929b5deb5c8f9e',1,'Forge::Networking::Lobby::LobbyHost']]],
+  ['chatmanager',['ChatManager',['../class_forge_1_1_networking_1_1_chat_1_1_chat_manager.html#ad274d20cb8365f11e91689fbd03ae1e8',1,'Forge::Networking::Chat::ChatManager']]],
+  ['clear',['Clear',['../class_forge_1_1_collections_1_1_bag_3_01_t_01_4.html#a6def59af6506bafed4ed75b698531469',1,'Forge.Collections.Bag&lt; T &gt;.Clear()'],['../class_forge_1_1_collections_1_1_sparse_array_3_01_t_01_4.html#a7e7df88e05bc8eb3e5c95d1f23923c0d',1,'Forge.Collections.SparseArray&lt; T &gt;.Clear()']]],
+  ['clearmodifications',['ClearModifications',['../class_forge_1_1_utilities_1_1_modification_manager.html#aaf4bdacd040abf0b8678be227e175632',1,'Forge::Utilities::ModificationManager']]],
+  ['collectionsizehint',['CollectionSizeHint',['../class_forge_1_1_utilities_1_1_type_metadata.html#aad2be0718a642f26eba489064c6c5d2b',1,'Forge::Utilities::TypeMetadata']]],
+  ['collectitems_3c_20tcollection_20_3e',['CollectItems&lt; TCollection &gt;',['../class_forge_1_1_collections_1_1_quad_tree_3_01_t_item_01_4.html#a8de005e602084082ea16a9ece182a380',1,'Forge::Collections::QuadTree&lt; TItem &gt;']]],
+  ['concurrentwriterbag',['ConcurrentWriterBag',['../class_forge_1_1_collections_1_1_concurrent_writer_bag_3_01_t_01_4.html#aa0df39ac0f0d90b39aa78ce03cc8dba8',1,'Forge::Collections::ConcurrentWriterBag&lt; T &gt;']]],
+  ['consume',['Consume',['../class_forge_1_1_utilities_1_1_unique_int_generator.html#a41dc30d8234ef7867c11bec2107dcddb',1,'Forge::Utilities::UniqueIntGenerator']]],
+  ['contains',['Contains',['../class_forge_1_1_collections_1_1_bag_3_01_t_01_4.html#a7893a729a89eccb72a1246c942911852',1,'Forge.Collections.Bag&lt; T &gt;.Contains()'],['../class_forge_1_1_collections_1_1_unordered_list_3_01_t_01_4.html#a80220b728daddf45741203279735c156',1,'Forge.Collections.UnorderedList&lt; T &gt;.Contains()'],['../struct_forge_1_1_utilities_1_1_bound.html#aee91296b675785d1b61f21064c5a94b0',1,'Forge.Utilities.Bound.Contains(Vector2r point)'],['../struct_forge_1_1_utilities_1_1_bound.html#a52fe7ce4793f544a6baf3d741032db88',1,'Forge.Utilities.Bound.Contains(Real x, Real y)']]],
+  ['containsdata',['ContainsData',['../interface_forge_1_1_entities_1_1_i_queryable_entity.html#a5322381448c9e42cee041b73646621c3',1,'Forge::Entities::IQueryableEntity']]],
+  ['containskey',['ContainsKey',['../class_forge_1_1_collections_1_1_sparse_array_3_01_t_01_4.html#abb802abc31bbc18e3c96baf504fb8028',1,'Forge::Collections::SparseArray&lt; T &gt;']]],
+  ['copy',['Copy',['../class_forge_1_1_collections_1_1_bag_3_01_t_01_4.html#a32c829643def9954f93a6921c1141837',1,'Forge::Collections::Bag&lt; T &gt;']]],
+  ['copyfrom',['CopyFrom',['../class_forge_1_1_collections_1_1_bag_3_01_t_01_4.html#a270780563cb03336b5d36d8a07742486',1,'Forge.Collections.Bag&lt; T &gt;.CopyFrom()'],['../interface_forge_1_1_entities_1_1_data_1_1_i_versioned.html#a32fe8e0593e462750cb8bbed8184c7df',1,'Forge.Entities.Data.IVersioned.CopyFrom()']]],
+  ['create_3c_20t_20_3e',['Create&lt; T &gt;',['../class_forge_1_1_utilities_1_1_general_streaming_context.html#a056d9aa071349c53fed94653b85a5fd2',1,'Forge::Utilities::GeneralStreamingContext']]],
+  ['createclient',['CreateClient',['../class_forge_1_1_networking_1_1_core_1_1_network_context.html#a625cadcd1b63f39be9a709445f092935',1,'Forge::Networking::Core::NetworkContext']]],
+  ['createdecimal',['CreateDecimal',['../struct_forge_1_1_utilities_1_1_real.html#ad3958b9db2dfb456e25ad1d79043dfd8',1,'Forge::Utilities::Real']]],
+  ['createengine',['CreateEngine',['../class_forge_1_1_entities_1_1_tests_1_1_engine_tests.html#a86de872e5573c25297885f7fd72a23bb',1,'Forge::Entities::Tests::EngineTests']]],
+  ['createengineonengineloaded',['CreateEngineOnEngineLoaded',['../class_forge_1_1_entities_1_1_tests_1_1_engine_tests.html#a3d7a6b6419cd5cf2c3441948fd8a4e3a',1,'Forge::Entities::Tests::EngineTests']]],
+  ['createentity',['CreateEntity',['../interface_forge_1_1_entities_1_1_i_game_snapshot.html#a9376fe89b4d5738e6e35fae311d88805',1,'Forge::Entities::IGameSnapshot']]],
+  ['createinstance',['CreateInstance',['../class_forge_1_1_utilities_1_1_type_metadata.html#a796eb89df4a7769f346573c8f90564d6',1,'Forge::Utilities::TypeMetadata']]],
+  ['createlobby',['CreateLobby',['../class_forge_1_1_networking_1_1_lobby_1_1_lobby_host.html#a641de8185a525dd712cd07f2639a3a8a',1,'Forge::Networking::Lobby::LobbyHost']]],
+  ['createserver',['CreateServer',['../class_forge_1_1_networking_1_1_core_1_1_network_context.html#a3289ef37467c75fc92bff7ba652477a0',1,'Forge::Networking::Core::NetworkContext']]],
+  ['createtemplate',['CreateTemplate',['../interface_forge_1_1_entities_1_1_i_template_group.html#a4ab3040331cd2dd7199665c945e06b32',1,'Forge::Entities::ITemplateGroup']]],
+  ['current',['Current',['../class_forge_1_1_entities_1_1_data_reference_3_01_t_data0_01_4.html#ae7acc0f9a8b10881bf6b612c6cb3cc7f',1,'Forge.Entities.DataReference&lt; TData0 &gt;.Current()'],['../interface_forge_1_1_entities_1_1_i_queryable_entity.html#a7ce220843de7b3aab1cdb3da07e79709',1,'Forge.Entities.IQueryableEntity.Current()']]],
+  ['current_3c_20tdata_20_3e',['Current&lt; TData &gt;',['../class_forge_1_1_entities_1_1_base_data_reference_type.html#abec60c96d4ead7ffafd2975a4ac176d8',1,'Forge::Entities::BaseDataReferenceType']]]
+];

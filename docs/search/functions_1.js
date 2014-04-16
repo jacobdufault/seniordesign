@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['bag',['Bag',['../class_forge_1_1_collections_1_1_bag_3_01_t_01_4.html#aa7af16dbd2672b37299c67a761abf1ac',1,'Forge.Collections.Bag&lt; T &gt;.Bag()'],['../class_forge_1_1_collections_1_1_bag_3_01_t_01_4.html#a9eed3323f43c0b6e5f20d21ea3bdff73',1,'Forge.Collections.Bag&lt; T &gt;.Bag(int capacity)'],['../class_forge_1_1_collections_1_1_bag_3_01_t_01_4.html#aef87c5d127c2242f3fa4a2394487c04b',1,'Forge.Collections.Bag&lt; T &gt;.Bag(IEnumerable&lt; T &gt; collection)'],['../class_forge_1_1_collections_1_1_bag_3_01_t_01_4.html#a498ce83e04486c808d38571feb8bb727',1,'Forge.Collections.Bag&lt; T &gt;.Bag(IList&lt; T &gt; list)']]],
+  ['buffereditem',['BufferedItem',['../class_forge_1_1_collections_1_1_buffered_item_3_01_t_01_4.html#af2378a64e616af85099913ef7d8b2f76',1,'Forge.Collections.BufferedItem&lt; T &gt;.BufferedItem(int count=2)'],['../class_forge_1_1_collections_1_1_buffered_item_3_01_t_01_4.html#a7d13e402dda666450cb76dda861f5d1c',1,'Forge.Collections.BufferedItem&lt; T &gt;.BufferedItem(params T[] instances)']]]
+];

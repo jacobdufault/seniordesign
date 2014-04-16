@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['selectdata',['SelectData',['../interface_forge_1_1_entities_1_1_i_queryable_entity.html#af66c8c7a2d63c6d48bd2abe1c305f18c',1,'Forge::Entities::IQueryableEntity']]],
+  ['sendcommand',['SendCommand',['../class_forge_1_1_networking_1_1_automatic_turn_game_1_1_automatic_turn_game.html#a55d175b7402bac719aa2270e610fe190',1,'Forge::Networking::AutomaticTurnGame::AutomaticTurnGame']]],
+  ['sender',['Sender',['../struct_forge_1_1_networking_1_1_chat_1_1_received_chat_message.html#ab56cacf7420325fb415fb2135c481f49',1,'Forge::Networking::Chat::ReceivedChatMessage']]],
+  ['sendmessage',['SendMessage',['../class_forge_1_1_networking_1_1_chat_1_1_chat_manager.html#abd157603ddf8cebf9d596956e4bbf478',1,'Forge.Networking.Chat.ChatManager.SendMessage(string message, List&lt; Player &gt; receivers)'],['../class_forge_1_1_networking_1_1_chat_1_1_chat_manager.html#a1c55f409a07536813b742e5b7429b8dd',1,'Forge.Networking.Chat.ChatManager.SendMessage(string message)'],['../class_forge_1_1_networking_1_1_core_1_1_network_context.html#a3041565954761046ee466b093421ea73',1,'Forge.Networking.Core.NetworkContext.SendMessage(NetworkMessageRecipient recipient, INetworkMessage message)'],['../class_forge_1_1_networking_1_1_core_1_1_network_context.html#a55af6a2fd08daf91a7a0259fc6ed8783',1,'Forge.Networking.Core.NetworkContext.SendMessage(Player recipient, INetworkMessage message)']]],
+  ['serializationtests',['SerializationTests',['../class_forge_1_1_utilities_1_1_tests_1_1_serialization_tests.html',1,'Forge::Utilities::Tests']]],
+  ['serializedmap',['SerializedMap',['../class_forge_1_1_networking_1_1_lobby_1_1_lobby_host_1_1_lobby_settings.html#a80eb19c7acf31b4fe2be1ce14f3647fa',1,'Forge::Networking::Lobby::LobbyHost::LobbySettings']]],
+  ['server',['Server',['../namespace_forge_1_1_networking_1_1_core.html#a6d9050e39fa663c902c68859030808f7a9aa1b03934893d7134a660af4204f2a9',1,'Forge::Networking::Core']]],
+  ['set_3c_20t_20_3e',['Set&lt; T &gt;',['../class_forge_1_1_utilities_1_1_general_streaming_context.html#aea46637b7ce1b42b2ad047fbe1ecacd4',1,'Forge::Utilities::GeneralStreamingContext']]],
+  ['showentityevent',['ShowEntityEvent',['../class_forge_1_1_entities_1_1_show_entity_event.html',1,'Forge::Entities']]],
+  ['sparsearray',['SparseArray',['../class_forge_1_1_collections_1_1_sparse_array_3_01_t_01_4.html#a749f12f530b74f036d18ccdef5646363',1,'Forge.Collections.SparseArray&lt; T &gt;.SparseArray()'],['../class_forge_1_1_collections_1_1_sparse_array_3_01_t_01_4.html#a979b079d517a8b93d6b2a14e38d716dc',1,'Forge.Collections.SparseArray&lt; T &gt;.SparseArray(int capacity)'],['../class_forge_1_1_collections_1_1_sparse_array_3_01_t_01_4.html#a91987f521ba8570e84e77db41e7e22f2',1,'Forge.Collections.SparseArray&lt; T &gt;.SparseArray(IEnumerable&lt; KeyValuePair&lt; int, T &gt;&gt; enumerator)']]],
+  ['sparsearray_3c_20t_20_3e',['SparseArray&lt; T &gt;',['../class_forge_1_1_collections_1_1_sparse_array_3_01_t_01_4.html',1,'Forge::Collections']]],
+  ['storagetype',['StorageType',['../class_forge_1_1_utilities_1_1_property_metadata.html#a8786596251ccc6986e6f53eb70412f27',1,'Forge::Utilities::PropertyMetadata']]],
+  ['submit_3c_20tevent_20_3e',['Submit&lt; TEvent &gt;',['../interface_forge_1_1_entities_1_1_i_event_dispatcher.html#a233d933d1684e635eb40b5795f8aa501',1,'Forge::Entities::IEventDispatcher']]],
+  ['submitmodification',['SubmitModification',['../class_forge_1_1_utilities_1_1_modification_manager.html#a3f42f5f58139ef2bb3a3985196685ec0',1,'Forge::Utilities::ModificationManager']]],
+  ['swap',['Swap',['../class_forge_1_1_collections_1_1_buffered_item_3_01_t_01_4.html#a0b937b7e5ffbb7f2ffb93f93196843a7',1,'Forge.Collections.BufferedItem&lt; T &gt;.Swap()'],['../class_forge_1_1_collections_1_1_swappable_item_3_01_t_01_4.html#a0448f8b9731613c80aafa1089c89f5fe',1,'Forge.Collections.SwappableItem&lt; T &gt;.Swap()']]],
+  ['swappableitem',['SwappableItem',['../class_forge_1_1_collections_1_1_swappable_item_3_01_t_01_4.html#a99a3a19c5abd728bb18314cc903cf5ba',1,'Forge::Collections::SwappableItem&lt; T &gt;']]],
+  ['swappableitem_3c_20t_20_3e',['SwappableItem&lt; T &gt;',['../class_forge_1_1_collections_1_1_swappable_item_3_01_t_01_4.html',1,'Forge::Collections']]],
+  ['synchronizestate',['SynchronizeState',['../interface_forge_1_1_entities_1_1_i_game_engine.html#a870bf953e1a67950657b6f2a3cdb7209',1,'Forge::Entities::IGameEngine']]],
+  ['systemcounter',['SystemCounter',['../class_forge_1_1_entities_1_1_tests_1_1_system_counter.html',1,'Forge::Entities::Tests']]],
+  ['systemexecutiongrouptests',['SystemExecutionGroupTests',['../class_forge_1_1_entities_1_1_tests_1_1_system_execution_group_tests.html',1,'Forge::Entities::Tests']]],
+  ['systemexecutionordering',['SystemExecutionOrdering',['../namespace_forge_1_1_entities.html#a4588a49db2736163cdc273181c16cc99',1,'Forge::Entities']]],
+  ['systems',['Systems',['../interface_forge_1_1_entities_1_1_i_game_snapshot.html#ad5bfd60b8f6de27b95884ddd858fe373',1,'Forge::Entities::IGameSnapshot']]]
+];
